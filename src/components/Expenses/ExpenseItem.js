@@ -11,6 +11,7 @@ const ExpenseItem = (props) => {
   const btnHandler =  () => {
     setTitle("Updated")  
     console.log(title)
+    console.log(title)
   };
 
   return (
